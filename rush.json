@@ -447,7 +447,8 @@
     // },
     {
       "packageName": "@fullstack-auth/interfaces",
-      "projectFolder": "libraries/interfaces"
+      "projectFolder": "libraries/interfaces",
+      "shouldPublish": true
     },
     {
       "packageName": "@fullstack-auth/auth-frontend",
