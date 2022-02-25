@@ -4,12 +4,13 @@
   "description": "Shared types for @fullstack-auth",
   "main": "index.ts",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "rimraf dist && tsc"
   },
   "author": "Ryan Stoughton",
   "license": "ISC",
   "dependencies": {
     "typescript": "4.5.5",
-    "zod": "3.12.0"
+    "zod": "3.12.0",
+    "rimraf": "3.0.2"
   }
 }
