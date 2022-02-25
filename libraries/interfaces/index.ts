@@ -1,1 +1,4 @@
-export type LoginPayload = {};
+export type LoginPayload = {
+  username: string;
+  password: string;
+};
