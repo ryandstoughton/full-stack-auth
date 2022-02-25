@@ -1,0 +1,15 @@
+{
+  "name": "@fullstack-auth/interfaces",
+  "version": "0.1.0",
+  "description": "Shared types for @fullstack-auth",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ryan Stoughton",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "4.5.5",
+    "zod": "3.12.0"
+  }
+}
