@@ -1,0 +1,17 @@
+{
+  "name": "@fullstack-auth/interfaces",
+  "entries": [
+    {
+      "version": "0.2.0",
+      "tag": "@fullstack-auth/interfaces_v0.2.0",
+      "date": "Fri, 25 Feb 2022 19:11:51 GMT",
+      "comments": {
+        "minor": [
+          {
+            "comment": "Added LoginPayload"
+          }
+        ]
+      }
+    }
+  ]
+}
